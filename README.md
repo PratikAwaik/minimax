@@ -1,0 +1,1 @@
+The program implements minimax algorithm for the popular game, tictactoe.
