@@ -2,4 +2,4 @@ This is Harvard's CS50's guided project. </br>**runner.py** file was already pro
 If you don't have the **pygame** module, then run **pip3 install -r requirements.txt** to download it.</br>
 (Link to the course.)[https://cs50.harvard.edu/ai/2020/] </br></br>
 
-![image info](C:\Users\PRATIK\Pictures\Screenshots\Screenshot (30).png)
+![image info](..\image1.png)
